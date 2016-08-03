@@ -197,3 +197,12 @@ padding-left: 0 !important;
 padding-right: 0 !important;
 
 }
+
+.table tr td{
+    a.main-link {
+        color: #428bc;
+    }
+    a.main-link:hover {
+        background: none;
+    }
+}
