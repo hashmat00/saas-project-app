@@ -4,9 +4,11 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 
+# added gems into this project
 gem 'devise'
 gem 'milia'
 gem 'aws-sdk'
+gem 'stripe'
 
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
